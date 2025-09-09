@@ -1,2 +1,2 @@
-This line was added locally on lab-tasks
+This line was added locally on lab-tasks.
 
